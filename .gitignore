@@ -1,0 +1,14 @@
+# get rid of python files
+*.pyc
+*.pyo
+__pycache__
+
+# get rid of junk files
+
+.DS_Store
+.DS_Store?
+.kate-swp
+.ipynb_checkpoints
+jthunt/
+data/
+*/logininfo.py
